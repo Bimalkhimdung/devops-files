@@ -1,5 +1,4 @@
 #!/bin/bash
-#maintainer=bimalkhimdung@gamil.com
 sudo apt-get update
 sudo install -m 0755 -d /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
