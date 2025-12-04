@@ -6,3 +6,7 @@ curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scr
 ```
 curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/docker_install.sh | bash
 ```
+## Install kubectl in linux with terminal
+```
+curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/kubectl.sh | bash
+```
