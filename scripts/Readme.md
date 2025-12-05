@@ -14,3 +14,7 @@ curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scr
 ```
 curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/terraform.sh | bash
 ```
+## Install terraform in linux with terminal
+```
+curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/helm_install.sh | bash
+```
