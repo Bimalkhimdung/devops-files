@@ -12,5 +12,5 @@ curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scr
 ```
 ## Install terraform in linux with terminal
 ```
-curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/terrraform.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Bimalkhimdung/devops-files/main/scripts/terraform.sh | bash
 ```
